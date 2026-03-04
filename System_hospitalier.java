@@ -1,4 +1,4 @@
-package tp_git;
+ package tp_git;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -34,13 +34,13 @@ public class System_hospitalier {
     }
 
     private String analyserRequete(Requête requête) {
-        
-        return "requête analysée";
+        //Le texte renvoyé par la méthode a été modifié.
+        return "la requête a été analysée";
     }
 
     private String comparerDonnes() {
-        
-        return "Cluster trouvé";
+        //Le commentaire envoyé par la méthode a été modifé.
+        return "le Cluster a été trouvé";
     }
 
 }
